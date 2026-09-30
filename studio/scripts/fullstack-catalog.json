@@ -1,0 +1,247 @@
+{
+  "exportedAt": "2026-09-30T18:58:56.633Z",
+  "categories": [
+    {
+      "name": "Accessories",
+      "slug": "accessories"
+    },
+    {
+      "name": "Audio",
+      "slug": "audio"
+    },
+    {
+      "name": "Computing",
+      "slug": "computing"
+    },
+    {
+      "name": "Smart Home",
+      "slug": "smart-home"
+    },
+    {
+      "name": "Wearables",
+      "slug": "wearables"
+    }
+  ],
+  "products": [
+    {
+      "name": "USB-C Hub (7-in-1)",
+      "slug": "usb-c-hub-7-in-1",
+      "description": "Compact hub with HDMI, USB-A, SD card, and 100W power delivery.",
+      "priceCents": 4999,
+      "sku": "ACC-4001",
+      "imageUrl": "https://images.pexels.com/photos/4195404/pexels-photo-4195404.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+      "isActive": true,
+      "category": "accessories",
+      "stock": 33
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "slug": "wireless-charging-pad",
+      "description": "15W fast wireless charger compatible with all Qi-enabled devices.",
+      "priceCents": 2999,
+      "sku": "ACC-4002",
+      "imageUrl": "https://images.unsplash.com/photo-1575543419095-0b090628213f?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "accessories",
+      "stock": 47
+    },
+    {
+      "name": "Laptop Sleeve (13-inch)",
+      "slug": "laptop-sleeve-13-inch",
+      "description": "Padded, water-resistant sleeve with a slim profile.",
+      "priceCents": 1999,
+      "sku": "ACC-4003",
+      "imageUrl": "https://images.pexels.com/photos/89723/pexels-photo-89723.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+      "isActive": true,
+      "category": "accessories",
+      "stock": 2
+    },
+    {
+      "name": "10,000mAh Power Bank",
+      "slug": "10000mah-power-bank",
+      "description": "Slim power bank with dual USB-C ports for fast charging on the go.",
+      "priceCents": 3499,
+      "sku": "ACC-4004",
+      "imageUrl": "https://images.pexels.com/photos/3921704/pexels-photo-3921704.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+      "isActive": true,
+      "category": "accessories",
+      "stock": 29
+    },
+    {
+      "name": "Wireless Earbuds Pro",
+      "slug": "wireless-earbuds-pro",
+      "description": "Active noise-cancelling earbuds with 30-hour battery life and a compact charging case.",
+      "priceCents": 12999,
+      "sku": "AUD-1001",
+      "imageUrl": "https://images.unsplash.com/photo-1756902368926-eb9e5e9d2a69?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "audio",
+      "stock": 42
+    },
+    {
+      "name": "Over-Ear Studio Headphones",
+      "slug": "over-ear-studio-headphones",
+      "description": "Studio-tuned over-ear headphones with plush memory-foam ear cushions.",
+      "priceCents": 18999,
+      "sku": "AUD-1002",
+      "imageUrl": "https://images.unsplash.com/photo-1600086827875-a63b01f1335c?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "audio",
+      "stock": 17
+    },
+    {
+      "name": "Portable Bluetooth Speaker",
+      "slug": "portable-bluetooth-speaker",
+      "description": "Rugged, water-resistant speaker with 12-hour playtime and rich bass.",
+      "priceCents": 7999,
+      "sku": "AUD-1003",
+      "imageUrl": "https://images.unsplash.com/photo-1564975472884-a6e9fd24e967?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "audio",
+      "stock": 0
+    },
+    {
+      "name": "USB Condenser Microphone",
+      "slug": "usb-condenser-microphone",
+      "description": "Plug-and-play condenser mic for streaming, podcasting, and calls.",
+      "priceCents": 8999,
+      "sku": "AUD-1004",
+      "imageUrl": "https://images.unsplash.com/photo-1610733661660-2e2110acb090?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "audio",
+      "stock": 25
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "slug": "mechanical-keyboard",
+      "description": "Hot-swappable mechanical keyboard with RGB backlighting.",
+      "priceCents": 8999,
+      "sku": "CMP-5001",
+      "imageUrl": "https://images.pexels.com/photos/3812048/pexels-photo-3812048.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+      "isActive": true,
+      "category": "computing",
+      "stock": 19
+    },
+    {
+      "name": "Wireless Ergonomic Mouse",
+      "slug": "wireless-ergonomic-mouse",
+      "description": "Vertical ergonomic mouse designed to reduce wrist strain.",
+      "priceCents": 3999,
+      "sku": "CMP-5002",
+      "imageUrl": "https://images.pexels.com/photos/36343363/pexels-photo-36343363.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+      "isActive": true,
+      "category": "computing",
+      "stock": 24
+    },
+    {
+      "name": "4K Webcam",
+      "slug": "4k-webcam",
+      "description": "Ultra HD webcam with auto-focus and a built-in privacy shutter.",
+      "priceCents": 7499,
+      "sku": "CMP-5003",
+      "imageUrl": "https://images.pexels.com/photos/7172701/pexels-photo-7172701.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+      "isActive": true,
+      "category": "computing",
+      "stock": 0
+    },
+    {
+      "name": "Smart Thermostat",
+      "slug": "smart-thermostat",
+      "description": "Learning thermostat that adapts to your schedule and saves energy.",
+      "priceCents": 14999,
+      "sku": "SHM-3001",
+      "imageUrl": "https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "smart-home",
+      "stock": 20
+    },
+    {
+      "name": "Video Doorbell",
+      "slug": "video-doorbell",
+      "description": "1080p video doorbell with motion alerts and two-way audio.",
+      "priceCents": 9999,
+      "sku": "SHM-3002",
+      "imageUrl": "https://images.unsplash.com/photo-1633194883650-df448a10d554?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "smart-home",
+      "stock": 4
+    },
+    {
+      "name": "Smart LED Bulb (4-Pack)",
+      "slug": "smart-led-bulb-4-pack",
+      "description": "Color-changing smart bulbs with voice assistant support.",
+      "priceCents": 4499,
+      "sku": "SHM-3003",
+      "imageUrl": "https://images.unsplash.com/photo-1674659719067-8735479ba10c?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "smart-home",
+      "stock": 60
+    },
+    {
+      "name": "Robot Vacuum",
+      "slug": "robot-vacuum",
+      "description": "Self-emptying robot vacuum with smart mapping and app scheduling.",
+      "priceCents": 34999,
+      "sku": "SHM-3004",
+      "imageUrl": "https://images.unsplash.com/photo-1653990480360-31a12ce9723e?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "smart-home",
+      "stock": 8
+    },
+    {
+      "name": "Smart Plug (2-Pack)",
+      "slug": "smart-plug-2-pack",
+      "description": "Wi-Fi smart plugs for scheduling and remote control of any outlet.",
+      "priceCents": 2499,
+      "sku": "SHM-3005",
+      "imageUrl": "https://images.pexels.com/photos/4148576/pexels-photo-4148576.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+      "isActive": true,
+      "category": "smart-home",
+      "stock": 55
+    },
+    {
+      "name": "Fitness Tracker Band",
+      "slug": "fitness-tracker-band",
+      "description": "Lightweight fitness band with heart-rate, sleep, and step tracking.",
+      "priceCents": 5999,
+      "sku": "WEA-2001",
+      "imageUrl": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "wearables",
+      "stock": 38
+    },
+    {
+      "name": "Smartwatch Series X",
+      "slug": "smartwatch-series-x",
+      "description": "AMOLED smartwatch with GPS, always-on display, and 5-day battery life.",
+      "priceCents": 24999,
+      "sku": "WEA-2002",
+      "imageUrl": "https://images.unsplash.com/photo-1624096104992-9b4fa3a279dd?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "wearables",
+      "stock": 3
+    },
+    {
+      "name": "Sleep Tracking Ring",
+      "slug": "sleep-tracking-ring",
+      "description": "Titanium smart ring that tracks sleep stages, readiness, and activity.",
+      "priceCents": 29999,
+      "sku": "WEA-2003",
+      "imageUrl": "https://images.unsplash.com/photo-1758577515333-e71b713059f1?w=600&h=600&fit=crop&q=80",
+      "isActive": true,
+      "category": "wearables",
+      "stock": 11
+    },
+    {
+      "name": "Kids GPS Smartwatch",
+      "slug": "kids-gps-smartwatch",
+      "description": "Parent-monitored smartwatch with GPS location and SOS calling.",
+      "priceCents": 6999,
+      "sku": "WEA-2004",
+      "imageUrl": "https://images.pexels.com/photos/9794712/pexels-photo-9794712.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+      "isActive": true,
+      "category": "wearables",
+      "stock": 0
+    }
+  ]
+}
