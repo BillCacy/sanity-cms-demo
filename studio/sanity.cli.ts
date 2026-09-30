@@ -5,6 +5,8 @@ export default defineCliConfig({
     projectId: 'o5hhr4br',
     dataset: 'production'
   },
+  // Deployed at https://bc-nimbustech.sanity.studio
+  studioHost: 'bc-nimbustech',
   deployment: {
     /**
      * Enable auto-updates for studios.
